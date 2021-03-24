@@ -1,7 +1,7 @@
 # dind-jenkins-slave
 Jenkins docker slave
 
-I rebuild the original image from https://hub.docker.com/r/benhall/dind-jenkins-agent
+I rebuild the original image from https://hub.docker.com/r/benhall/dind-jenkins-agent:latest
 
 Adding git and update java 8
 
